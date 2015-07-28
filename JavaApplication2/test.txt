@@ -1,5 +1,0 @@
-
-The train's speed: 55 MPH.
-Distance after hour 1: 55.0 miles.
-Distance after hour 2: 110.0 miles.
-Distance after hour 3: 165.0 miles.
