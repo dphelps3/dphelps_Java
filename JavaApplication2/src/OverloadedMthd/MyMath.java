@@ -7,7 +7,7 @@ public class MyMath {
     but use different parameters */
         
     // to calculate area of a circle
-<<<<<<< HEAD
+
     public static double square(double radius)
     {
         return (3.14 * (radius * radius));
