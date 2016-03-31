@@ -2,7 +2,7 @@
 package lombardo;
 
 /*
-You need a constructor.
+You need a constructor NOW.
  */
 
 public interface Reader {
